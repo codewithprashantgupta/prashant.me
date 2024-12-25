@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Logo from '../assets/Logo4.png'
+import Logo from '../assets/pg-logo5.png'
 import {FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook} from 'react-icons/fa'
 // import {HiOutlineMail} from 'react-icons/hi'
 // import {BsFillPersonLinesFill} from 'react-icons/bs'

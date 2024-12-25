@@ -13,6 +13,6 @@ export const bioData = [
 	},
 	{
 		id: 4,
-		para: "Beyond my professional interests, I enjoy spending time in nature through gardening and capturing life's fleeting moments on my street photography blog. Feel free to explore my creative work at <a href='https://www.pexels.com/@city-and-soul-snaps-2148048475/' target='_blank'>City and Soul Snaps</a>."
+		para: "Beyond my professional interests, I enjoy spending time in nature through gardening and capturing life's fleeting moments on my street photography blog. Feel free to explore my creative work at <a href='https://www.pexels.com/@city-and-soul-snaps-2148048475/' target='_blank'><strong>City and Soul Snaps 📸</strong></a>."
 	}
 ];

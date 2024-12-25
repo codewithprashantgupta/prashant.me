@@ -98,7 +98,7 @@ export const skills = [
 	{
         id: 17,
         title: 'RestAssured',
-        img: '/assets/restAssured.png',
+        img: '/assets/restassured.png',
         url: 'https://rest-assured.io/'
     },
     {

@@ -57,7 +57,6 @@ const Footer = () => {
         <div className="w-[100%] text-[#1e3751] bg-[#f0f0f0] p-5 ">
         <div className='text-xs sm:text-base flex flex-row  justify-between items-center text-center'>
                 <div>&copy; {new Date().getFullYear()} Copyright</div><br/>
-                <div>Made with ReactJS & Tailwind CSS</div><br/>
                 <div>PG</div>
         </div>
     </div>

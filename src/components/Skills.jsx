@@ -14,7 +14,7 @@ const Skills = () => {
             <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8 m-1'>
                 {skills.map((skill, index)=>(
                     <div key={index} className='shadow-md shadow-[#040c16] hover:scale-105 duration-500 rounded-md'>
-                    <a href={skill.url}>
+                    <a href={skill.url} target='_blank'>
                         <img className='mt-4 w-20 mx-auto' src={skill.img}  alt={skill.title}></img>
                         <p className='my-4'>{skill.title}</p>
                         </a>
