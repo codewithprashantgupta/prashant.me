@@ -12,7 +12,7 @@ const Home = () => {
                 <p className='text-[#1e3751]'>Hey there, I am</p>
                 <h1 className='text-4xl md:text-7xl font-bold text-[#1e3751] mb-2'>Prashant Gupta</h1>
                 <h6 className='text-2xl md:text-3xl font-bold text-[#6a7280] max-w-[800px]'>Software and DevOps Engineer</h6>
-                <p className='text-[#6a7280] py-4 max-w-[700px]'>With over 4 years of experience in the tech industry, I am currently transitioning into the world of MLOps. I specialize in creating efficient, automated solutions and continuously improving systems to drive innovation</p>
+                <p className='text-[#6a7280] py-4 text-justify max-w-[700px]'>Over 4 years in the tech industry, I’ve honed my skills in DevOps, cloud computing, and automation. My background in software testing instilled a commitment to quality, which now drives my work in building scalable cloud infrastructures. Currently, I’m exploring MLOps to bridge the gap between DevOps and AI-driven solutions.</p>
                 <div>	
                     <a download="Prashant_Gupta-Resume.pdf" href="/files/Prashant_Gupta-Resume.pdf" className='inline-block'>
                         {/* <button className='text-white bg-[#C3073F] px-6 py-3 my-2 flex items-center hover:bg-[#1e3751] rounded-sm'>My Resume<BsDownload className='ml-3'/></button> */}
