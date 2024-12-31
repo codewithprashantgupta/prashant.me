@@ -118,5 +118,23 @@ export const skills = [
         title: 'GitLab',
         img: '/assets/gitlab.png',
         url: 'https://about.gitlab.com/'
+    },
+    {
+        id: 21,
+        title: 'Tableau',
+        img: '/assets/tableau.png',
+        url: 'https://www.tableau.com/'
+    },
+    {
+        id: 22,
+        title: 'PowerBI',
+        img: '/assets/powerbi.jpeg',
+        url: 'https://www.microsoft.com/en-us/power-platform/products/power-bi/?msockid=0323dcbf0031624c0c93cf2f04316c58'
+    },
+    {
+        id: 23,
+        title: 'IBM Cognos',
+        img: '/assets/ibm-cognos.png',
+        url: 'https://www.ibm.com/products/cognos-analytics'
     }
 ]

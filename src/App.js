@@ -4,16 +4,18 @@ import Skills from "./components/Skills";
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Projects from "./components/Projects";
+import Certifications from "./components/Certifications";
 
 function App() {
   return (
     <div >
-      <Navbar/>
-      <Home/>
-      <About/>
-      <Skills/>
-      <Projects/>
-      <Footer/>
+			<Navbar />
+			<Home />
+			<About />
+			<Skills />
+			<Certifications />
+			<Projects />
+			<Footer />
     </div>
   );
 }
