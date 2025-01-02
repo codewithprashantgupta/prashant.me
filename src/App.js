@@ -5,10 +5,12 @@ import Footer from "./components/Footer";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Certifications from "./components/Certifications";
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
-    <div >
+    <>
+		<div >
 			<Navbar />
 			<Home />
 			<About />
@@ -16,7 +18,9 @@ function App() {
 			<Certifications />
 			<Projects />
 			<Footer />
-    </div>
+    	</div>
+		<Analytics />
+	</>
   );
 }
 
