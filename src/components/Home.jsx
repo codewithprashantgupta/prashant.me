@@ -19,7 +19,7 @@ const Home = () => {
 						Software and DevOps Engineer
 					</h6>
 					<p className="text-[#6a7280] py-4 text-justify max-w-[700px]">
-						Over 4 years in the tech industry, I’ve honed my skills
+						Over 5 years in the tech industry, I’ve honed my skills
 						in DevOps, cloud computing, and automation. My
 						background in software testing instilled a commitment to
 						quality, which now drives my efforts in building scalable 

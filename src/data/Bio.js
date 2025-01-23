@@ -5,7 +5,7 @@ export const bioData = [
 	},
 	{
 		id: 2,
-		para: "As an AWS Certified Solutions Architect – Associate (SAA-C03), I bring expertise in designing and managing scalable, secure, and cost-effective cloud environments.",
+		para: "As an AWS Certified Solutions Architect, I bring expertise in designing and managing scalable, secure, and cost-effective cloud environments. My professional journey includes working in startups and SaaS environments, which has honed my ability to adapt to dynamic challenges while driving impactful solutions.",
 	},
 	{
 		id: 3,
