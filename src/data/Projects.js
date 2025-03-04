@@ -10,6 +10,14 @@ export const projects = [
 	},
 	{
 		id: 2,
+		name: "Voting App with K8 and Minikube",
+		date: "2025",
+		tech: ["Kubernetes", "Minikube", "Docker", "AWS"],
+		tagline: "Deploying a Voting App on Kubernetes with Minikube and EC2 ",
+		source: "https://github.com/codewithprashantgupta/voting-app-project",
+	},
+	{
+		id: 3,
 		name: "Coming Soon",
 		date: "",
 		tech: [],
