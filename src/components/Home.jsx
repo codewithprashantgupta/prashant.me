@@ -16,11 +16,11 @@ const Home = () => {
 						Prashant Gupta
 					</h1>
 					<h6 className="text-2xl md:text-3xl font-bold text-[#6a7280] max-w-[800px]">
-						Software and DevOps Engineer
+						Software and Automation Engineer
 					</h6>
 					<p className="text-[#6a7280] py-4 text-justify max-w-[700px]">
 						Over 5 years in the tech industry, I’ve honed my skills
-						in DevOps, cloud computing, and automation. My
+						in DevOps, cloud computing, and test automation. My
 						background in software testing instilled a commitment to
 						quality, which now drives my efforts in building scalable 
 						applications and fostering seamless collaboration across 
