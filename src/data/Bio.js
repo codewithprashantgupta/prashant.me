@@ -9,7 +9,7 @@ export const bioData = [
 	},
 	{
 		id: 3,
-		para: "I’m currently pursuing a Master's in Information Systems at the University of Cincinnati, complemented by a graduate certification in Data Analytics. Alongside my coursework and internship, my passion for sports drives my active involvement with the UC Athletics department, contributing to the university's vibrant athletic community",
+		para: "I recently completed my Master's in Information Systems from the University of Cincinnati, along with a graduate certification in Data Analytics. Outside academics, my passion for sports led to active involvement with the UC Athletics department, where I contributed to the university's vibrant athletic community.",
 	},
 	{
 		id: 4,

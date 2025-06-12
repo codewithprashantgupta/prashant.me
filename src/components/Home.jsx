@@ -20,11 +20,11 @@ const Home = () => {
 					</h6>
 					<p className="text-[#6a7280] py-4 text-justify max-w-[700px]">
 						Over 5 years in the tech industry, I’ve honed my skills
-						in DevOps, cloud computing, and test automation. My
-						background in software testing instilled a commitment to
+						in Software Development, DevOps, and Cloud Computing. My
+						background in SaaS instilled a commitment to
 						quality, which now drives my efforts in building scalable 
 						applications and fostering seamless collaboration across 
-						diverse teams. Currently, I’m exploring machine learning 
+						diverse teams. Currently, working on machine learning 
 						to bridge the gap between data-driven insights and impactful solutions.
 					</p>
 					<div>
